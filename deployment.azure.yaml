@@ -31,3 +31,4 @@ spec:
     port: 80 
     targetPort: 80 
   type: LoadBalancer 
+  ##Author Sercan Yılmaz 26012022
